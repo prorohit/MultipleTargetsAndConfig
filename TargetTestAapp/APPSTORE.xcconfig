@@ -1,0 +1,11 @@
+//
+//  APPSTORE.xcconfig
+//  TargetTestAapp
+//
+//  Created by Rohit.Singh on 01/02/17.
+//  Copyright © 2017 Rohit.Singh. All rights reserved.
+//
+
+OTHER_SWIFT_FLAGS = -D APPSTORE
+
+FACEBOOKAPPID  = APPSTORE_19878979
